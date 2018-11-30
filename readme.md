@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](http://www.astrosurf.com/luxorion/Illustrations/bible-gutenberg-morgan.jpg)
 
 Bible | Commentaire
 ------------ | -------------
